@@ -1,0 +1,14 @@
+/Users/tatianegomes/SENAC-ALG2/bin/Debug/net9.0/SENAC-ALG2
+/Users/tatianegomes/SENAC-ALG2/bin/Debug/net9.0/SENAC-ALG2.deps.json
+/Users/tatianegomes/SENAC-ALG2/bin/Debug/net9.0/SENAC-ALG2.runtimeconfig.json
+/Users/tatianegomes/SENAC-ALG2/bin/Debug/net9.0/SENAC-ALG2.dll
+/Users/tatianegomes/SENAC-ALG2/bin/Debug/net9.0/SENAC-ALG2.pdb
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/SENAC-ALG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/SENAC-ALG2.AssemblyInfoInputs.cache
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/SENAC-ALG2.AssemblyInfo.cs
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/SENAC-ALG2.csproj.CoreCompileInputs.cache
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/SENAC-ALG2.dll
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/refint/SENAC-ALG2.dll
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/SENAC-ALG2.pdb
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/SENAC-ALG2.genruntimeconfig.cache
+/Users/tatianegomes/SENAC-ALG2/obj/Debug/net9.0/ref/SENAC-ALG2.dll
