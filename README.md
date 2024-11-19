@@ -1,6 +1,7 @@
 # GerenciadorJogos
-Programinha feito em C# 
-Este projeto é um sistema simples de gerenciamento de jogos, permitindo adicionar, listar, remover e controlar o estoque de jogos.
+
+***Programinha feito em C# 
+Este projeto é um sistema simples de gerenciamento de jogos, permitindo adicionar, listar, remover e controlar o estoque de jogos.***
 
 ## Como Rodar o Projeto
 1. Clone o repositório:
